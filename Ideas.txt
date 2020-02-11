@@ -1,0 +1,5 @@
+Things to try
+- Different activation function: Swish, x ReLU etc
+- SVM
+- Ensemble 3 CNN
+- squeeze-and-excitation networks
