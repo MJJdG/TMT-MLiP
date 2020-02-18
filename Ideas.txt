@@ -4,4 +4,4 @@ Things to try
 - Ensemble 3 CNN
 - squeeze-and-excitation networks
 - Iterative stratification https://www.kaggle.com/yiheng/iterative-stratification
-- 
+- preprocessing https://www.kaggle.com/iafoss/image-preprocessing-128x128
