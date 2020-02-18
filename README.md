@@ -9,5 +9,8 @@ Max:
   Res2Net: https://ieeexplore.ieee.org/abstract/document/8821313
 
 Ruben:
+
+- Iterative stratification https://www.kaggle.com/yiheng/iterative-stratification
+- preprocessing https://www.kaggle.com/iafoss/image-preprocessing-128x128
   
 Taras:
