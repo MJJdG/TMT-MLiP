@@ -3,3 +3,5 @@ Things to try
 - SVM
 - Ensemble 3 CNN
 - squeeze-and-excitation networks
+- Iterative stratification https://www.kaggle.com/yiheng/iterative-stratification
+- 
