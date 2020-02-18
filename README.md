@@ -6,7 +6,7 @@ Max:
 
   S&E blocks: http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf
 
-  Res2Net: https://ieeexplore.ieee.org/abstract/document/8821313
+  Res2Net:  https://ieeexplore.ieee.org/abstract/document/8821313, https://mmcheng.net/res2net/
 
 Ruben:
 
