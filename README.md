@@ -14,3 +14,4 @@ Ruben:
 - preprocessing https://www.kaggle.com/iafoss/image-preprocessing-128x128
   
 Taras:
+- https://www.researchgate.net/publication/220412438_Chinese_character_recognition_History_status_and_prospects
