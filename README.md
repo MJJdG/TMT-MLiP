@@ -10,6 +10,7 @@ Ruben:
 
 - Iterative stratification https://www.kaggle.com/yiheng/iterative-stratification
 - preprocessing https://www.kaggle.com/iafoss/image-preprocessing-128x128
+- More data augmentation
   
 Taras:
 - Chinese character recognition https://www.researchgate.net/publication/220412438_Chinese_character_recognition_History_status_and_prospects
