@@ -10,6 +10,7 @@ Ruben:
 
 - Iterative stratification https://www.kaggle.com/yiheng/iterative-stratification
 - preprocessing https://www.kaggle.com/iafoss/image-preprocessing-128x128
+  - Is praktisch hetzelfde als wat we al hebben, helaas.
 - More data augmentation
   
 Taras:
