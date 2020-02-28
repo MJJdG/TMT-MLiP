@@ -12,6 +12,8 @@ Ruben:
 - preprocessing https://www.kaggle.com/iafoss/image-preprocessing-128x128
   - Is praktisch hetzelfde als wat we al hebben, helaas.
 - More data augmentation
+- Speed up data reading 30x
+  -https://www.kaggle.com/corochann/bangali-ai-super-fast-data-loading-with-feather
   
 Taras:
 - Chinese character recognition https://www.researchgate.net/publication/220412438_Chinese_character_recognition_History_status_and_prospects
