@@ -13,6 +13,7 @@ Ruben:
   - Is praktisch hetzelfde als wat we al hebben, helaas.
 - More data augmentation
   - https://www.kaggle.com/corochann/bengali-albumentations-data-augmentation-tutorial
+  - add noise to data
 - Speed up data reading 30x
   -https://www.kaggle.com/corochann/bangali-ai-super-fast-data-loading-with-feather
   
