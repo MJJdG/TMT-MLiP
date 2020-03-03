@@ -4,7 +4,13 @@ Bengali Digit Recognition: http://dspace.daffodilvarsity.edu.bd:8080/bitstream/h
 
 Max:
 
-  Res2Net:  https://ieeexplore.ieee.org/abstract/document/8821313, https://mmcheng.net/res2net/
+ I'm going to experiment with:
+ 
+ - CutMix
+ - Dropout
+ - S&E
+ - The 'Rolling Trainingset' approach
+ - Oversampling
 
 Ruben:
 
