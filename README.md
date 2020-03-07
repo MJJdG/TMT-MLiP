@@ -14,7 +14,7 @@ Max:
 
 Ruben:
 
-- Iterative stratification https://www.kaggle.com/yiheng/iterative-stratification
+- Pretrain on isolated components
 - preprocessing https://www.kaggle.com/iafoss/image-preprocessing-128x128
   - Is praktisch hetzelfde als wat we al hebben, helaas.
 - More data augmentation
@@ -27,4 +27,5 @@ Taras:
 - Chinese character recognition https://www.researchgate.net/publication/220412438_Chinese_character_recognition_History_status_and_prospects
 
 S&E blocks: http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf
+Iterative stratification https://www.kaggle.com/yiheng/iterative-stratification
 
