@@ -20,9 +20,11 @@ Ruben:
 - More data augmentation
   - https://www.kaggle.com/corochann/bengali-albumentations-data-augmentation-tutorial
   - add noise to data
-- Speed up data reading 30x
+- Use feather files
+  - Speeds up data reading 30x
   -https://www.kaggle.com/corochann/bangali-ai-super-fast-data-loading-with-feather
-- Class map corrected
+- Use class_map_corrected.csv
+  - Improves dense_5 accuracy from 0.6791 to 0.6873 after one epoch
   
 Taras:
 - Chinese character recognition https://www.researchgate.net/publication/220412438_Chinese_character_recognition_History_status_and_prospects
