@@ -22,6 +22,7 @@ Ruben:
   - add noise to data
 - Speed up data reading 30x
   -https://www.kaggle.com/corochann/bangali-ai-super-fast-data-loading-with-feather
+- Class map corrected
   
 Taras:
 - Chinese character recognition https://www.researchgate.net/publication/220412438_Chinese_character_recognition_History_status_and_prospects
