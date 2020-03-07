@@ -22,7 +22,7 @@ Ruben:
   - add noise to data
 - Use feather files
   - Speeds up data reading 30x
-  -https://www.kaggle.com/corochann/bangali-ai-super-fast-data-loading-with-feather
+  - https://www.kaggle.com/corochann/bangali-ai-super-fast-data-loading-with-feather
 - Use class_map_corrected.csv
   - Improves dense_5 accuracy from 0.6791 to 0.6873 after one epoch
   
