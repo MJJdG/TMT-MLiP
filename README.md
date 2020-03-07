@@ -7,7 +7,9 @@ Max:
  I'm going to experiment with:
  
  - CutMix
+   Ruben note; zit al in de starter code
  - Dropout
+   Ruben note; alsin dropout layers? Zitten ook in de starter code
  - S&E
  - The 'Rolling Trainingset' approach
  - Oversampling
