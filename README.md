@@ -8,7 +8,6 @@ Max:
  
  - CutMix
  - Dropout
-   Ruben note; alsin dropout layers? Zitten in de starter code
  - S&E
  - The 'Rolling Trainingset' approach
  - Oversampling
