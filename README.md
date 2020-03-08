@@ -24,7 +24,7 @@ Ruben:
   - Speeds up data reading 30x
   - https://www.kaggle.com/corochann/bangali-ai-super-fast-data-loading-with-feather
 - Use class_map_corrected.csv
-  - Improves dense_5 accuracy from 0.6791 to 0.6873 after one epoch
+  - Improves dense_5 accuracy from 0.0.9478 to 0.0.9514 after one epoch
   
 Taras:
 - Chinese character recognition https://www.researchgate.net/publication/220412438_Chinese_character_recognition_History_status_and_prospects
