@@ -16,6 +16,8 @@ Ruben:
 
 - Pretrain on isolated components
   - https://code.google.com/archive/p/cmaterdb/downloads
+  - zie python files
+  - Niet vergeten uiteindelijk ook op test data te trainen
 - preprocessing https://www.kaggle.com/iafoss/image-preprocessing-128x128
   - Is praktisch hetzelfde als wat we al hebben, helaas.
 - More data augmentation
