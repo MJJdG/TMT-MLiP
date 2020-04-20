@@ -6,6 +6,8 @@ Most public notebooks seem to use LGBM (https://medium.com/@pushkarmandot/https-
 
 Some interesting discussions: https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/142129, https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/138881
 
+Temporal Fusion Transformers: https://arxiv.org/pdf/1912.09363.pdf
+
 Max:
 - 
 
